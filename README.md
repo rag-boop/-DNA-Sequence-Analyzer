@@ -39,12 +39,15 @@ python dna_analyzer.py -s ATGCGTACGTAGC -m ATG TATA
 🔄 Output
 
 Sequence: ATGCGTACGTAGC
+
 GC Content: 53.85%
+
 Reverse Complement: GCTACGTACGCAT
 
 Motif Results:
 
 ATG found at position(s): 0
+
 TATA not found.
 
 🎓 Educational Use Cases

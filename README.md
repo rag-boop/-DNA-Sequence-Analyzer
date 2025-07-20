@@ -81,9 +81,6 @@ Project by Raghav Gupta
 🧪 B.Tech Biotechnology | Aspiring Bioinformatician
 📫 LinkedIn: https://www.linkedin.com/in/raghav-gupta-0913361bb/
 
-⭐ Contributions
-Pull requests and feedback are welcome!
-Feel free to fork the repo and build your own DNA tools.
 
 
 

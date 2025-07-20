@@ -84,9 +84,4 @@ Project by Raghav Gupta
 
 
 
----
 
-### ✅ What to Do Next:
-- Copy the above content.
-- Paste it into your repo’s `README.md` file on GitHub.
-- Update the LinkedIn link with your profile.

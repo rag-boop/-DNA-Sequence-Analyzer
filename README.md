@@ -79,18 +79,13 @@ Beginners in Python-based biology projects
 🙋 About the Author
 Project by Raghav Gupta
 🧪 B.Tech Biotechnology | Aspiring Bioinformatician
-📫 LinkedIn (Update with your link)
+📫 LinkedIn: https://www.linkedin.com/in/raghav-gupta-0913361bb/
 
 ⭐ Contributions
 Pull requests and feedback are welcome!
 Feel free to fork the repo and build your own DNA tools.
 
-📜 License
-This project is open-source under the MIT License.
 
-vbnet
-Copy
-Edit
 
 ---
 
